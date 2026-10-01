@@ -31,3 +31,4 @@ jobs:
 
       - name: Ejecutar tests
         run: mvn test
+
