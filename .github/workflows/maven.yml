@@ -29,6 +29,6 @@ jobs:
           distribution: 'corretto'
           cache: maven
 
-      - name: Ejecutar tests
+      - name: Ejecutar tests 2
         run: mvn test
 
